@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="list_item_height">32dp</dimen>
+    <dimen name="empty_message_text_size">32sp</dimen>
+    <dimen name="write_nv_dialog_tip_text_size">18sp</dimen>
+    <dimen name="write_nv_dialog_tip_padding_bottom">8dp</dimen>
+    <dimen name="erase_nv_dialog_tip_text_size">18sp</dimen>
+    <dimen name="erase_nv_dialog_tip_padding_bottom">8dp</dimen>
+
+</resources>

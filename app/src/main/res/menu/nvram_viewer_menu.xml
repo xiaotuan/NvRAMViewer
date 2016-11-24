@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/refresh"
+        android:showAsAction="always"
+        android:title="@string/refresh"
+        android:icon="@drawable/ic_refresh" />
+
+    <item android:id="@+id/write"
+        android:showAsAction="ifRoom"
+        android:title="@string/write"
+        android:icon="@drawable/ic_write" />
+
+    <item android:id="@+id/erase"
+        android:showAsAction="ifRoom"
+        android:title="@string/erase"
+        android:icon="@drawable/ic_erase" />
+
+</menu>

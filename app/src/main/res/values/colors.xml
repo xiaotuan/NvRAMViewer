@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="line_color">#bbbbbbbb</color>
+    <color name="write_nv_dialog_tip_text_color">#ff00ff00</color>
+
+</resources>

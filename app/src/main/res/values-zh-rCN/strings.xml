@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"NvRAM查看器"</string>
+
+    <string name="index_title">"下标"</string>
+    <string name="value_title">"数值"</string>
+    <string name="character_title">"字符"</string>
+    <string name="refresh">"刷新"</string>
+    <string name="write">"写入"</string>
+    <string name="erase">"擦除"</string>
+    <string name="empty_message">"空数据"</string>
+    <string name="read_nv_fail">"读取NV失败"</string>
+    <string name="write_nv_dialog_title">"NV写入"</string>
+    <string name="cancel">"取消"</string>
+    <string name="ok">"确定"</string>
+    <string name="start_subscript">"起始下标: "</string>
+    <string name="data_length">"数据长度: "</string>
+    <string name="data">"数据: "</string>
+    <string name="end_subscript">"结束下标: "</string>
+    <string name="write_nv_success">"NV写入成功"</string>
+    <string name="write_nv_fail">"NV写入失败"</string>
+    <string name="erase_nv_dialog_title">"NV擦除"</string>
+    <string name="erase_nv_success">"NV擦除成功"</string>
+    <string name="erase_nv_fail">"NV擦除失败"</string>
+    <string name="dialog_nv_info_tip">"NvRAM起始下标为0,长度为"<xliff:g id="length">%d</xliff:g>".请检查自己输入的下标是否在NvRAM下标范围中."</string>
+
+</resources>

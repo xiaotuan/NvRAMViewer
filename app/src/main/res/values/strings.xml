@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">NvRAMViewer</string>
+
+    <string name="index_title">Index</string>
+    <string name="value_title">Value</string>
+    <string name="character_title">Char</string>
+    <string name="refresh">Refresh</string>
+    <string name="write">Write</string>
+    <string name="erase">Erase</string>
+    <string name="empty_message">No Data</string>
+    <string name="read_nv_fail">Read NV fail</string>
+    <string name="write_nv_dialog_title">Write NV</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="start_subscript">"Start subscript: "</string>
+    <string name="data_length">"Data length: "</string>
+    <string name="data">"Data: "</string>
+    <string name="end_subscript">"End subscript: "</string>
+    <string name="write_nv_success">Write NV Success</string>
+    <string name="write_nv_fail">Write NV Fail</string>
+    <string name="erase_nv_dialog_title">Erase NV</string>
+    <string name="erase_nv_success">Erase NV Success</string>
+    <string name="erase_nv_fail">Erase NV Fail</string>
+    <string name="dialog_nv_info_tip">"The NvRAM start index is 0 and the length is "<xliff:g id="length">%d</xliff:g>".Please check whether the index you input is in the NvRAM index range."</string>
+
+</resources>
